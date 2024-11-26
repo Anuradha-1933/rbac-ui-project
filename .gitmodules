@@ -1,0 +1,3 @@
+[submodule "rbac-ui-project"]
+	path = rbac-ui-project
+	url = https://github.com/Anuradha-1933/rbac-ui-project.git
